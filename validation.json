@@ -1,0 +1,61 @@
+{
+  "status": "verified",
+  "case_counts": {
+    "2679": 12,
+    "2680": 110,
+    "2713": 110
+  },
+  "unit_tests": 23,
+  "source_hash_mismatch_blocked": true,
+  "cached_ocr_rerun": {
+    "fund": 2679,
+    "cases": 12,
+    "tsv_modified": false,
+    "elapsed_seconds": 0.376
+  },
+  "google_values_dates_quantities_notes_match": true,
+  "google_date_number_format": "dd.mm.yyyy",
+  "google_sheets": {
+    "2679": "https://docs.google.com/spreadsheets/d/14JSoAllChpaoxkYcAumUFKDuVZV9TXDy3P64FvCj0AI/edit",
+    "2680": "https://docs.google.com/spreadsheets/d/1vcrmETG24P5V-FR_qXZNUvg-not1dWJr089Omt4QhEw/edit",
+    "2713": "https://docs.google.com/spreadsheets/d/1MyOjcj50PE0jYIgmwyvrSDEorH1fGGHZby29RhoRiUU/edit?gid=1272260271#gid=1272260271"
+  },
+  "review_json_serialization_tests": "passed",
+  "handwriting": "manual review required",
+  "converter_version": "1.1",
+  "2713": {
+    "case_count": 110,
+    "case_ids": "1–109 and 107а",
+    "excluded_count": 0,
+    "unresolved_case_ids": [
+      "18",
+      "19",
+      "23",
+      "26",
+      "28",
+      "29",
+      "34",
+      "40",
+      "43",
+      "53",
+      "57",
+      "58",
+      "61",
+      "68",
+      "83",
+      "94",
+      "104"
+    ],
+    "google_rows_compared": 110,
+    "google_numeric_date_cells_compared": 220,
+    "google_comparison_errors": [],
+    "native_scan_pages": 34,
+    "handwriting": "visual transcription and verification against source scans",
+    "review_json_serialization_tests": "passed",
+    "google_visual_layout_check": "passed"
+  },
+  "previous_funds_recompiled_identically": [
+    "2679",
+    "2680"
+  ]
+}

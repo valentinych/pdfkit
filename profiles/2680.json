@@ -1,0 +1,446 @@
+{
+  "fund": "2680",
+  "expected_last_case": 110,
+  "dpi": 220,
+  "source_sha256": "1e3e18434c98b52072f9d50f144969ec692173b37e326b3225cf2190164a373e",
+  "columns": {
+    "case": [
+      0.08,
+      0.18
+    ],
+    "title": [
+      0.26,
+      0.615
+    ],
+    "start": [
+      0.615,
+      0.7
+    ],
+    "end": [
+      0.7,
+      0.81
+    ]
+  },
+  "pages": [
+    {
+      "page": 3,
+      "cases": [
+        1,
+        2,
+        3
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 4,
+      "cases": [
+        4,
+        5
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 5,
+      "cases": [
+        6,
+        7,
+        8
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 6,
+      "cases": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 7,
+      "cases": [
+        13,
+        14
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 8,
+      "cases": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 9,
+      "cases": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 10,
+      "cases": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 11,
+      "cases": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 12,
+      "cases": [
+        31,
+        32
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 13,
+      "cases": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 14,
+      "cases": [
+        37,
+        38,
+        39
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 15,
+      "cases": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 16,
+      "cases": [
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 17,
+      "cases": [
+        50,
+        51,
+        52
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 18,
+      "cases": [
+        53,
+        54,
+        55
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 19,
+      "cases": [
+        56,
+        57,
+        58
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 20,
+      "cases": [
+        59,
+        60,
+        61
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 21,
+      "cases": [
+        62,
+        63,
+        64
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 22,
+      "cases": [
+        65,
+        66
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 23,
+      "cases": [
+        67,
+        68,
+        69
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 24,
+      "cases": [
+        70,
+        71,
+        72
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 25,
+      "cases": [
+        73,
+        74,
+        75
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 26,
+      "cases": [
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 27,
+      "cases": [
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 28,
+      "cases": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 29,
+      "cases": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 30,
+      "cases": [
+        95
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 31,
+      "cases": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "handwritten": false,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 32,
+      "cases": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "handwritten": false,
+      "body": [
+        0.1,
+        0.96
+      ]
+    },
+    {
+      "page": 33,
+      "cases": [
+        110
+      ],
+      "handwritten": true,
+      "body": [
+        0.1,
+        0.96
+      ]
+    }
+  ]
+}

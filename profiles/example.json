@@ -1,0 +1,38 @@
+{
+  "fund": "0000",
+  "expected_last_case": 3,
+  "dpi": 220,
+  "columns": {
+    "case": [
+      0.06,
+      0.15
+    ],
+    "title": [
+      0.26,
+      0.6
+    ],
+    "start": [
+      0.6,
+      0.7
+    ],
+    "end": [
+      0.7,
+      0.8
+    ]
+  },
+  "pages": [
+    {
+      "page": 3,
+      "cases": [
+        1,
+        2,
+        3
+      ],
+      "handwritten": true,
+      "body": [
+        0.2,
+        0.94
+      ]
+    }
+  ]
+}
